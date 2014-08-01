@@ -1,0 +1,132 @@
+{
+	"composer": 
+			[
+				{ 	"name": "Schubert",
+					"born": 1797, 
+					"died": 1828
+				},
+				{	"name": "Beethoven",
+					"born": 1770, 
+					"died": 1827
+				},
+				{
+					"name": "Mozart",
+					"born": 1756,
+					"died": 1791
+				},
+				{
+					"name": "Bach",
+					"born": 1685,
+					"died": 1750
+				},
+				{
+					"name": "Tchaikovsky",
+					"born": 1840,
+					"died": 1893
+				},
+				{
+					"name": "Copland",
+					"born": 1900,
+					"died": 1990
+				},
+				{
+					"name": "Chopin",
+					"born": 1810,
+					"died": 1849
+				},
+				{
+					"name": "Pachelbel",
+					"born": 1653,
+					"died": 1706 
+				},
+				{
+					"name": "Debussy",
+					"born": 1862,
+					"died": 1918
+				},
+				{
+					"name": "Haydn",
+					"born": 1732,
+					"died": 1809
+				},
+				{
+					"name": "Liszt",
+					"born": 1811,
+					"died": 1886
+				},
+				{
+					"name": "Vivaldi",
+					"born": 1678,
+					"died": 1741
+				},
+				{
+					"name": "Brahms",
+					"born": 1833,
+					"died": 1897
+				},
+				{
+					"name": "Handel",
+					"born": 1685,
+					"died": 1759
+				},
+				{
+					"name": "Stravinsky",
+					"born": 1882,
+					"died": 1971
+				},
+				{
+					"name": "Gershwin",
+					"born": 1898,
+					"died": 1937
+				},
+				{
+					"name": "Schumann",
+					"born": 1810,
+					"died": 1856
+				},
+				{
+					"name": "Mendelssohn",
+					"born": 1809,
+					"died": 1847
+				},
+				{
+					"name": "Grieg",
+					"born": 1843,
+					"died": 1907
+				},
+				{
+					"name": "Rachmaninoff",
+					"born": 1873,
+					"died": 1943
+				}
+			],
+
+	"era": 
+			[
+				{
+					"name": "Baroque",
+					"start": 1600,
+					"end": 1760
+				},
+				{
+					"name": "Classical",
+					"start": 1730,
+					"end": 1820
+				},
+				{
+					"name": "Romantic",
+					"start": 1815,
+					"end": 1910
+				},
+				{
+					"name": "Modern",
+					"start": 1890,
+					"end": 1930
+				},
+				{
+					"name": "20th Century",
+					"start": 1901,
+					"end": 2000
+				}
+			]
+}
