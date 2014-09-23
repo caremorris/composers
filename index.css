@@ -4,6 +4,10 @@ body {
   font: 10px Helvetica, sans-serif;
 }
 
+text {
+  font-size: 12px;
+}
+
 .headers {
   text-align: center;
 }
